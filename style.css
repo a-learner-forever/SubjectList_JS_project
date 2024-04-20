@@ -1,0 +1,28 @@
+h1{
+    color: rgb(15, 159, 159);
+}
+
+button{
+    background-color: rgb(184, 52, 184);
+    margin-left: 10px;
+}
+
+.del_btn{
+    background-color:yellowgreen;
+    
+    border-radius: 12px;
+    border: 1px solid black;
+    padding: 10px;
+}
+ul{
+    
+    list-style: none;
+
+}
+/* .myLi{
+    margin-top: 10px;
+} */
+#subject_list>li{
+    margin-top: 10px;
+}
+
